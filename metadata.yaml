@@ -1,0 +1,41 @@
+_repo: Shenstonen-rouva_59833
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Joutsen, O. A.
+    alias: Joutsen, Otto Aleksanteri
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+    wikipedia: https://fi.wikipedia.org/wiki/O._A._Joutsen
+  - agent_name: Jaakkola, Väinö
+    alias: Jaakkola, Vaino
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '40868'
+    url: http://www.gutenberg.org/2009/agents/40868
+creator:
+  author:
+    agent_name: Barclay, Florence L. (Florence Louisa)
+    aliases:
+    - Roy, Brandon
+    - Barclay, Florence Louisa (Charlesworth), Mrs.
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '1253'
+    url: http://www.gutenberg.org/2009/agents/1253
+    wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
+description: ''
+gutenberg_issued: '2019-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59833'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Shenstonen rouva
+url: http://www.gutenberg.org/ebooks/59833
